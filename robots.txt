@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: /vendors/
+Disallow: /categories/
+
+
+Sitemap: https://www.haojindo.cn/sitemap.xml
+Sitemap: https://www.haojindo.cn/baidusitemap.xml
